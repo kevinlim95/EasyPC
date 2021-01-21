@@ -1,0 +1,75 @@
+EasyPC, your personal laptop recommender
+========================================================
+author: 
+date: 
+autosize: true
+transition: concave
+transition-speed: slow
+left:0%
+
+- **Name (Matric Number)** 
+- LIM KEVIN (17140821) 
+- LEOW YEONG CHYI (S2022330) 
+- SOONG WOEI MENG (17147287) 
+- WENDY CHONG POOI MUN (S2019483)
+
+Introduction
+========================================================
+
+**Problem Statement**
+
+- Laptop purchase is a hassle for many people. 
+- Technical knowledge is required just to choose the perfect laptop. 
+- Therefore, we aim to simplify the purchase experience for consumers. 
+
+
+**Target Audience** 
+- Non-technical consumers
+- i.e. students and casual users
+
+Introducing EasyPC
+========================================================
+
+<div class="screenshot">
+  <img src="https://i.ibb.co/GvdYFcG/App.jpg", width=1000, height=400>
+</div>
+
+- An intuitive filter system for casual consumers.
+- No technical jargons.
+- Just insert your preference and EasyPC will do the work. 
+
+
+
+How to use
+========================================================
+
+<div class="screenshot">
+  <img src="https://i.ibb.co/jw5rdJK/Filter.jpg", width = 1000, height = 400>
+</div>
+
+
+- Simple to converse with EasyPC. 
+- We have pre-set the selection criterias based on the answers.
+- i.e. If the user plan to carry the laptop everyday, we have pre-set the weight to be less than 2KG.
+
+
+EasyPC's recommendation
+========================================================
+
+<div class="screenshot">
+  <img src="https://i.ibb.co/MPzKNWr/Result.jpg", height = 200>
+</div>
+
+
+- A list available laptops online for purchase in a table format.
+- The user can further limit the number of laptops shown.
+- Or sort the table according to the user's preference (i.e. price). 
+
+**Please visits the following websites for more detail:**
+- ShinyApp: https://soongwoeimeng.shinyapps.io/EasyPC/
+- GitHub: https://github.com/kevinlim95/EasyPC  
+
+
+
+
+
